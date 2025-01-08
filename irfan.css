@@ -463,6 +463,9 @@ img{
 .skills__js{
     width: 70%;
 }
+.skills__react{
+    width:50%;
+}
 .skills__php{
     width: 70%;
 }
